@@ -5,9 +5,9 @@
 
 <h1 align="center">
   <p align="center">
-    <img src='./assets/one.jpeg' height="44">
-    <img src='./assets/two.jpeg' height="44">
-    <img src='./assets/three.jpeg' height="44">
+    <img src='./assets/one.jpeg' height="150" width="200">
+    <img src='./assets/two.jpeg' height="150" width="200">
+    <img src='./assets/three.jpeg' height="150" width="200">
   </p>
 </h1>
 
