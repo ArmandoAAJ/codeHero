@@ -5,9 +5,9 @@
 
 <h1 align="center">
   <p align="center">
-    <p><img src='./assets/one.png' height="44"></p>
-    <p><img src='./assets/two.png' height="44"></p>
-    <p><img src='./assets/three.png' height="44"></p>
+    <img src='./assets/one.jpeg' height="44">
+    <img src='./assets/two.jpeg' height="44">
+    <img src='./assets/three.jpeg' height="44">
   </p>
 </h1>
 
@@ -28,14 +28,13 @@ Este é um projeto utilizando a API da Marvel para listar os Heroes.
 ### 📱Iniciando com o Mobile (Apenas Android)
 1. ``yarn``
 2. ``adb reverse tcp:9090 tcp:9090 (Reactotron)``
-3. ``adb reverse tcp:3333 tcp:3333``
-4. ``yarn Start``
+3. ``yarn Start``
 
 ### 🧰  Ferramentas utilizadas
 - ⚛️ **React Native** - Framework para criar apps nativos usando React.
 - 💅 **Styled Components** - Biblioteca Javascript pra estilizar componentes.
 faceis de gerenciar.
-- 📛 **Expo** - Plataforma para monitoramento de erros e notificação em tempo real.
+- 📛 **Expo** - Ferramenta utilizada no desenvolvimento mobile com React Native que permite o fácil acesso às API’s nativas do dispositivo sem precisar instalar qualquer dependência ou alterar código nativo.
 
 <hr>
 <p align="center"> Armando A Joergensen </p>
