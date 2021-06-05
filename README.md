@@ -1,7 +1,17 @@
-<h1 align="center">
-  <p><img src='./assets/logo.png' height="44"></p>
-  <p>Projeto CodeHero</p>
-</h1>
+<h3 align="center">
+  PlantManager, Mobile
+</h3>
+
+<blockquote align="center">“Mude você e todo o resto mudará naturalmente”!</blockquote>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-instalação-e-execução">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>
+</p>
+
+<br>
 
 <h1 align="center">
   <p align="center">
@@ -11,30 +21,32 @@
   </p>
 </h1>
 
+## 🚀 Tecnologias
 
-### 📜 Sobre
-Este é um projeto utilizando a API da Marvel para listar os Heroes. 
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-### 🔽 Requisitos
-1. Ter o **NodeJs** e o **Yarn** instalado
-3. Um dispositivo ou emulador **Android** ou **IOS** conectado ao computador
-3. **Reactotron** rodando na porta 9090 (**Opcional**)
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.io/)
 
-### :rocket: Começando
-1. ``git clone https://github.com/ArmandoAAJ/codeHero.git``
-2. ``cd codehero``
+## 💻 Projeto
 
+Code Hero é uma aplicação criada em React Native + Expo, com o intuito de listar os super heróis através da Api https://developer.marvel.com/ e exibir algumas informações, bem como nome, imagem e suas características. Requisitos obrigatórios seguir o layout proposto e utilizar paginação. Além de possibilitar a busca por um super herói específico.
 
-### 📱Iniciando com o Mobile (Apenas Android)
-1. ``yarn``
-2. ``adb reverse tcp:9090 tcp:9090 (Reactotron)``
-3. ``yarn Start``
+## 📥 Instalação e execução
 
-### 🧰  Ferramentas utilizadas
-- ⚛️ **React Native** - Framework para criar apps nativos usando React.
-- 💅 **Styled Components** - Biblioteca Javascript pra estilizar componentes.
-faceis de gerenciar.
-- 📛 **Expo** - Ferramenta utilizada no desenvolvimento mobile com React Native que permite o fácil acesso às API’s nativas do dispositivo sem precisar instalar qualquer dependência ou alterar código nativo.
+Faça um clone desse repositório
 
-<hr>
-<p align="center"> Armando A Joergensen </p>
+### Mobile
+
+1. A partir da raiz do projeto, entre na pasta rodando `cd mobile`;
+2. Execulte `npm install` ou `yarn` para instalar as dependências;
+3. Execute `expo start` para emular o projeto.
+
+## 👨‍💻 Desenvolvido
+
+Armando Arlan Joergensen <p></p>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/armandoaaj/)](https://www.linkedin.com/in/armandoaaj/)
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
