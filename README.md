@@ -1,5 +1,5 @@
 <h3 align="center">
-  PlantManager, Mobile
+  Code Hero, Mobile
 </h3>
 
 <blockquote align="center">“Mude você e todo o resto mudará naturalmente”!</blockquote>
